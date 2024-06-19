@@ -1,0 +1,11 @@
+name,url,extension
+Firefox,https://download.mozilla.org/?product=firefox-stub&os=win&lang=pt-BR&_gl=1*2xvfzs*_ga*MTMyMjA1MjE1MC4xNzE4NzkwNzMy*_ga_MQ7767QQQW*MTcxODc5MDczMi4xLjAuMTcxODc5MDczMy4wLjAuMA..,.exe
+7-Zip,https://www.7-zip.org/a/7z2406-x64.exe,
+WinRAR,https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe,
+Redist x86,https://aka.ms/vs/17/release/vc_redist.x86.exe,
+Redist x64,https://aka.ms/vs/17/release/vc_redist.x64.exe,
+DirectX,https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe
+Discord,https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64,.exe
+Steam,https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe,
+Epic Games,https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi,
+Minecraft,https://aka.ms/minecraftClientGameCoreWindows,.exe
